@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/a5a877bd-39d9-4957-a1b0-8ec07143f8d8)
   
-    
+     
 This project delves into the **OpenAI o1 model**, a state-of-the-art large language model with advanced reasoning capabilities. We explored its internal workings, efficient prompt engineering strategies, and practical applications across various domains.
  
 ---
