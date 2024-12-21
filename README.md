@@ -41,8 +41,10 @@ The goal of this project was to:
 
 3. **Practical Scenarios**
    - **Supply Chain Planning**: Constructed a complex scenario for supply chain optimization. The o1 model suggested efficient inventory management and demand forecasting strategies.
-   - **Coding Exercises**: Tested the model's ability to debug, optimize, and explain Python scripts. The results demonstrated its superior reasoning and explanatory capabilities.
-   - **Reasoning with Images**: Provided an image along with text prompts to assess its visual reasoning. The o1 model correctly interpreted complex visual information and integrated it into its textual responses.
+   - **Coding Exercises**: Tested the model's ability to debug, optimize, and explain Python-React web app scripts. The results demonstrated its superior reasoning and explanatory capabilities.comparision was 
+      done between o1 vs Gpt 4o
+   - **Reasoning with Images**: Provided an ER Diagram image along with text prompts to assess its visual reasoning. The o1 model correctly interpreted complex visual information and integrated it into its 
+     textual responses.
 
 4. **Metaprompting**
    - Designed prompts that layered reasoning capabilities, guiding the model to self-assess and refine its output iteratively.
