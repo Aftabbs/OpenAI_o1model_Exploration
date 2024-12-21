@@ -4,7 +4,7 @@
   
 
 This project delves into the **OpenAI o1 model**, a state-of-the-art large language model with advanced reasoning capabilities. We explored its internal workings, efficient prompt engineering strategies, and practical applications across various domains.
-
+ 
 ---
 
 ## 🌟 **Objective**
